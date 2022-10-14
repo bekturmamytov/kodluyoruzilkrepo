@@ -8,3 +8,22 @@ Oncelikle projeyi klonlayin [link](https://github.com/bekturmamytov/kodluyoruzil
 ```swift
 gti clone https://github.com/bekturmamytov/kodluyoruzilkrepo
 ```
+
+## Usage
+
+Projeyi clonaladiktan sonra Visial Studio Code programinda aciniz.
+
+Linux icin:
+
+```
+cd kodluyoruzilkrepo
+code .
+```
+
+## Contributing
+
+Pull requestler kabul edilir. Buyuk degisiklikler icin, lutfen once neyi degistirmek istediginizi tartismak icin bir konu aciniz.
+
+## License
+
+[MIT](http://mit.edu)
