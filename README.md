@@ -30,4 +30,4 @@ Pull requestler kabul edilir. Buyuk degisiklikler icin, lutfen once neyi degisti
 
 ## Photo from Unsplash
 
-![See](https://unsplash.com/photos/UD31IGP9ums)
+![](https://unsplash.com/photos/UD31IGP9ums)
