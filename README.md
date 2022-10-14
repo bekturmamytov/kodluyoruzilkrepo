@@ -5,7 +5,6 @@ Bu repo [Kodluyoruz](http://www.kodluyoruz.org) Front-End Egitiminde olusturdugu
 ##Installation
 
 Oncelikle projeyi klonlayin [link](https://github.com/bekturmamytov/kodluyoruzilkrepo)
-
-'''swift
+```swift
 gti clone https://github.com/bekturmamytov/kodluyoruzilkrepo
-'''
+```
